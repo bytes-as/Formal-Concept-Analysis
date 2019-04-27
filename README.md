@@ -1,7 +1,7 @@
 # Formal-Concept-Analysis
 A principled way of deriving a concept hierarchy or formal ontology from a collection of objects and their properties. Each __concept__ in the hierarchy represents the objects sharing some set of properties and each __sub-concept__ in the hierarchy represents a subset of the object in the concepts above it.
 The package includes the implementation of lattice structures of the above called concepts and the methods of __Formal Concept Analysis__:
-It provides a mathematical modelfor describing set of __objects__ with the set of __properties__. Methods included in the package are :
+It provides a mathematical model for describing set of __objects__ with the set of __properties__. Methods included in the package are :
 * supremum
 * Infimum
 * Intenstion
