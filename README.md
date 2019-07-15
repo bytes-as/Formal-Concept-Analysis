@@ -11,7 +11,7 @@ Since the set of concepts of the lattie are in ordered form, the method _infimum
 
 This model is yet to be used in actual application since the formation of lattice is very time consuming but it's approach is better than what other model provides.
 
-The input is taken from the csv file in the directory named `test.csv`. To have it run on some other data input change the file path in the `lattiec.py` and interpret the script `lattice.py` with python3 interepreter.
+The input is taken from the csv file in the directory named `test.csv`. To have it run on some other data input change the file path in the `lattice.py` and interpret the script `lattice.py` with python3 interepreter.
 ```
-python lattiec.py
+python lattice.py
 ```
